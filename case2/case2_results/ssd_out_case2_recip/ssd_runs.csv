@@ -1,0 +1,4 @@
+final_a,final_err_abs,final_s,iters,max_cond,max_s,max_step_norm,min_a,status,trace_path
+0.04761904807255737,90909.09090911195,20.149969802252,5,,20.149969802252,,0.04761904807255737,DENY,C:\Users\ASUS\Desktop\SSD\case2\case2_traces\recip\abstain_instability_corridor\trace_sse.csv
+0.996810207336523,8.016032063906664e-06,0.0,26,,0.0,,0.996810207336523,ALLOW,C:\Users\ASUS\Desktop\SSD\case2\case2_traces\recip\allow_safe_corridor\trace_sse.csv
+0.8947640539054296,0.21626297577854814,0.0,20,,0.0,,0.8947640539054296,ALLOW,C:\Users\ASUS\Desktop\SSD\case2\case2_traces\recip\deny_boundary_corridor\trace_sse.csv

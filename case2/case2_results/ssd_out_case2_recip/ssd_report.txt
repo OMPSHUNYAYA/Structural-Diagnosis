@@ -1,0 +1,22 @@
+SHUNYAYA STRUCTURAL DIAGNOSIS (SSD) — TRACE DIAGNOSTIC REPORT
+
+root: C:\Users\ASUS\Desktop\SSD\case2\case2_traces\recip
+trace_name: trace_sse.csv
+traces: 3
+
+D_total: 11.3711
+S = 1 / (1 + D_total): 0.0808336
+deny_rate: 0.333333
+abstain_rate: 0
+
+TOP DRIFT SOURCES:
+ - D_final_s: 3
+ - D_max_s: 3
+ - D_final_err_abs: 2.99998
+ - D_final_a: 0.649798
+ - D_min_a: 0.649798
+ - D_iters: 0.404844
+
+OUTPUTS:
+ - C:\Users\ASUS\Desktop\SSD\case2\case2_results\ssd_out_case2_recip\ssd_report.json
+ - C:\Users\ASUS\Desktop\SSD\case2\case2_results\ssd_out_case2_recip\ssd_runs.csv
