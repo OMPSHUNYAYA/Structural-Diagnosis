@@ -1,0 +1,35 @@
+{
+  "root": "C:\\Users\\ASUS\\Desktop\\SSD\\runs_case1_corridor",
+  "trace_name": "trace_sse.csv",
+  "n_traces": 5,
+  "D_total": 0.18248880363787504,
+  "S": 0.8456739691095119,
+  "deny_rate": 0.0,
+  "abstain_rate": 0.0,
+  "top_drifts": [
+    {
+      "name": "D_final_step_norm",
+      "value": 0.09124440156457767
+    },
+    {
+      "name": "D_max_step_norm",
+      "value": 0.09124440156457767
+    },
+    {
+      "name": "D_final_cond",
+      "value": 2.543598497311111e-10
+    },
+    {
+      "name": "D_max_cond",
+      "value": 2.543598497311111e-10
+    },
+    {
+      "name": "D_iters",
+      "value": 0.0
+    },
+    {
+      "name": "D_final_SSE",
+      "value": 0.0
+    }
+  ]
+}
