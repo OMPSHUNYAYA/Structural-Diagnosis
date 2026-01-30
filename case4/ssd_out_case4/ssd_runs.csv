@@ -1,0 +1,4 @@
+final_a,final_cond,final_err_abs,final_r,final_risk,final_s,final_step_norm,iters,max_cond,max_s,max_step_norm,min_a,status,trace_path
+0.14285714285714285,1.0,0.0,6.0,6.0,0.0,3.0,1,1.0,0.0,3.0,0.14285714285714285,ABSTAIN,C:\Users\ASUS\Desktop\SSD\case4\case4_runs\abstain\trace_sse.csv
+0.9174311926605504,1.1111111111111112,6.480406733812852e-08,0.09000000000000001,0.09000000000000001,0.0,4.773110738113061e-09,161,1.1111111111111112,0.0,0.1,0.9174311926605504,ALLOW,C:\Users\ASUS\Desktop\SSD\case4\case4_runs\allow\trace_sse.csv
+0.8,2.0,0.0013813688804775724,0.25,0.25,2.0999999999999996,6.103515625e-05,14,2.0,2.0999999999999996,0.5,0.8,DENY,C:\Users\ASUS\Desktop\SSD\case4\case4_runs\deny\trace_sse.csv

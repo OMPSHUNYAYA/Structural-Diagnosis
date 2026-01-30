@@ -1,0 +1,35 @@
+{
+  "root": "C:\\Users\\ASUS\\Desktop\\SSD\\case4\\case4_runs",
+  "trace_name": "trace_sse.csv",
+  "n_traces": 3,
+  "D_total": 23.311671800679573,
+  "S": 0.04113250656715625,
+  "deny_rate": 0.3333333333333333,
+  "abstain_rate": 0.3333333333333333,
+  "top_drifts": [
+    {
+      "name": "D_final_s",
+      "value": 2.9999999999914295
+    },
+    {
+      "name": "D_max_s",
+      "value": 2.9999999999914295
+    },
+    {
+      "name": "D_final_step_norm",
+      "value": 2.9998168876571443
+    },
+    {
+      "name": "D_final_err_abs",
+      "value": 2.999577810176502
+    },
+    {
+      "name": "D_final_r",
+      "value": 2.538195722912544
+    },
+    {
+      "name": "D_final_risk",
+      "value": 2.538195722912544
+    }
+  ]
+}
