@@ -1,0 +1,58 @@
+Creative Commons Attribution 4.0 International — SSD
+
+Shunyaya Structural Diagnosis (SSD)
+
+This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
+- Use — for commercial or non-commercial purposes
+
+These freedoms are irrevocable, provided the license terms are followed.
+
+Attribution
+
+You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+
+Attribution must not suggest endorsement by:
+- the authors
+- the Shunyaya framework
+- Shunyaya Structural Diagnosis (SSD)
+
+No Additional Restrictions
+
+No registration required.  
+No fees.  
+No additional legal or technical restrictions may be applied.
+
+Research and Usage Notice
+
+Shunyaya Structural Diagnosis (SSD) is a deterministic, trace-based, post-hoc diagnostic framework for analyzing structural stability erosion and reliance risk.
+
+SSD is observational only and does not modify computations, solver behavior, numerical results, or execution order.
+
+All classical meaning is preserved under the collapse invariant:
+phi((m, a, s)) = m
+
+SSD provides diagnostic insight, not guarantees, control, or authority.
+
+Responsibility
+
+Any use of SSD in automated decision-making, governance, or safety-critical contexts is undertaken entirely at the user’s own responsibility.
+
+No Warranty
+
+THE WORK IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+Attribution (Minimum Required)
+
+When citing or redistributing this work, include at least:
+
+“Shunyaya Structural Diagnosis (SSD)”
+
+License Reference
+
+Creative Commons Attribution 4.0 International  
+https://creativecommons.org/licenses/by/4.0/
+
