@@ -1,0 +1,35 @@
+{
+  "root": "C:\\Users\\ASUS\\Desktop\\SSD\\case2\\case2_traces\\sqrt",
+  "trace_name": "trace_sse.csv",
+  "n_traces": 3,
+  "D_total": 10.133228660344084,
+  "S": 0.08982120375933193,
+  "deny_rate": 0.3333333333333333,
+  "abstain_rate": 0.3333333333333333,
+  "top_drifts": [
+    {
+      "name": "D_final_s",
+      "value": 2.9999999999905276
+    },
+    {
+      "name": "D_max_s",
+      "value": 2.9999999999905276
+    },
+    {
+      "name": "D_final_err_abs",
+      "value": 1.9990821123918814
+    },
+    {
+      "name": "D_iters",
+      "value": 0.9620160701240222
+    },
+    {
+      "name": "D_final_a",
+      "value": 0.08606523892356324
+    },
+    {
+      "name": "D_min_a",
+      "value": 0.08606523892356324
+    }
+  ]
+}
