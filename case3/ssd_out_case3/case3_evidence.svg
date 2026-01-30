@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="560" viewBox="0 0 980 560">
+<rect x="0" y="0" width="100%" height="100%" fill="white"/>
+<text x="28" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#111">SSD Evidence Snapshot (Case 3 - Linear System Conditioning Corridors)</text>
+<text x="28" y="68" font-family="Arial, sans-serif" font-size="13" fill="#444">Single-file, stdlib-only SVG generated from ssd_report.json</text>
+<rect x="28" y="84" width="170" height="44" rx="8" ry="8" fill="#f6f6f6" stroke="#e6e6e6"/>
+<text x="40" y="102" font-family="Arial, sans-serif" font-size="12" fill="#666">traces</text>
+<text x="40" y="120" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#111">3</text>
+<rect x="208" y="84" width="170" height="44" rx="8" ry="8" fill="#f6f6f6" stroke="#e6e6e6"/>
+<text x="220" y="102" font-family="Arial, sans-serif" font-size="12" fill="#666">D_total</text>
+<text x="220" y="120" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#111">18.547148</text>
+<rect x="388" y="84" width="170" height="44" rx="8" ry="8" fill="#f6f6f6" stroke="#e6e6e6"/>
+<text x="400" y="102" font-family="Arial, sans-serif" font-size="12" fill="#666">S</text>
+<text x="400" y="120" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#111">0.0511584</text>
+<rect x="568" y="84" width="170" height="44" rx="8" ry="8" fill="#f6f6f6" stroke="#e6e6e6"/>
+<text x="580" y="102" font-family="Arial, sans-serif" font-size="12" fill="#666">deny_rate</text>
+<text x="580" y="120" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#111">0.333333</text>
+<rect x="748" y="84" width="170" height="44" rx="8" ry="8" fill="#f6f6f6" stroke="#e6e6e6"/>
+<text x="760" y="102" font-family="Arial, sans-serif" font-size="12" fill="#666">abstain_rate</text>
+<text x="760" y="120" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#111">0.333333</text>
+<text x="28" y="190" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111">Top drift sources (higher = more drift)</text>
+<text x="28" y="244" font-family="Arial, sans-serif" font-size="12" fill="#111">D_final_s</text>
+<rect x="388" y="215" width="504" height="42" rx="6" ry="6" fill="#fafafa" stroke="#efefef"/>
+<rect x="388" y="215" width="504" height="42" rx="6" ry="6" fill="#222"/>
+<text x="902" y="244" font-family="Arial, sans-serif" font-size="12" fill="#111">3</text>
+<text x="28" y="296" font-family="Arial, sans-serif" font-size="12" fill="#111">D_max_s</text>
+<rect x="388" y="267" width="504" height="42" rx="6" ry="6" fill="#fafafa" stroke="#efefef"/>
+<rect x="388" y="267" width="504" height="42" rx="6" ry="6" fill="#222"/>
+<text x="902" y="296" font-family="Arial, sans-serif" font-size="12" fill="#111">3</text>
+<text x="28" y="348" font-family="Arial, sans-serif" font-size="12" fill="#111">D_final_cond</text>
+<rect x="388" y="319" width="504" height="42" rx="6" ry="6" fill="#fafafa" stroke="#efefef"/>
+<rect x="388" y="319" width="337" height="42" rx="6" ry="6" fill="#222"/>
+<text x="902" y="348" font-family="Arial, sans-serif" font-size="12" fill="#111">2</text>
+<text x="28" y="400" font-family="Arial, sans-serif" font-size="12" fill="#111">D_max_cond</text>
+<rect x="388" y="371" width="504" height="42" rx="6" ry="6" fill="#fafafa" stroke="#efefef"/>
+<rect x="388" y="371" width="337" height="42" rx="6" ry="6" fill="#222"/>
+<text x="902" y="400" font-family="Arial, sans-serif" font-size="12" fill="#111">2</text>
+<text x="28" y="452" font-family="Arial, sans-serif" font-size="12" fill="#111">D_final_r</text>
+<rect x="388" y="423" width="504" height="42" rx="6" ry="6" fill="#fafafa" stroke="#efefef"/>
+<rect x="388" y="423" width="336" height="42" rx="6" ry="6" fill="#222"/>
+<text x="902" y="452" font-family="Arial, sans-serif" font-size="12" fill="#111">2</text>
+<text x="28" y="504" font-family="Arial, sans-serif" font-size="12" fill="#111">D_final_risk</text>
+<rect x="388" y="475" width="504" height="42" rx="6" ry="6" fill="#fafafa" stroke="#efefef"/>
+<rect x="388" y="475" width="336" height="42" rx="6" ry="6" fill="#222"/>
+<text x="902" y="504" font-family="Arial, sans-serif" font-size="12" fill="#111">2</text>
+<text x="28" y="546" font-family="Arial, sans-serif" font-size="11" fill="#666">Note: SSD is trace-based diagnosis. This figure is illustrative evidence only; it does not modify computation.</text>
+</svg>
