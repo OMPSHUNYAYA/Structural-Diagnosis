@@ -193,6 +193,22 @@ SSD evaluates variance **before failure**, not averages after convergence.
 
 ---
 
+## 📐 Thresholds as Explicit Contracts
+
+SSD thresholds (`r_safe`, `s_max`, `a_min`) are **not learned or hidden**.
+
+They are:
+- explicit
+- domain-defined
+- auditable
+- replay-verifiable
+
+SSD does not choose thresholds.
+It guarantees that whatever thresholds you choose are:
+visible, conservative, and reproducible.
+
+---
+
 ## 📊 Stability Score (Optional, Auditable)
 
 SSD supports an explainable stability score:
@@ -297,6 +313,44 @@ SSD shows that:
 - abstention occurs immediately under divergent evolution
 
 Time integration is never altered.
+
+---
+
+## 🔍 What SSD Proofs Are — and Are Not
+
+SSD proof cases are **capability demonstrations**, not benchmark competitions.
+
+They are designed to show that:
+- structural instability can be **diagnosed deterministically**
+- erosion can be detected **before numerical failure**
+- diagnosis can occur **without modifying computation**
+- admissible corridors produce **diagnostic silence**
+
+They are **not** designed to:
+- rediscover unknown mathematical boundaries
+- outperform existing solvers or metrics
+- prove that SSD predicts failure outcomes
+- act as blind anomaly discovery challenges
+
+SSD proves a *new diagnostic question is answerable* —  
+not that existing mathematics was incomplete or incorrect.
+
+---
+
+## ⚙️ SSD and Prototyping
+
+SSD is intentionally **overkill for prototyping results** —
+but not for prototyping **reliance**.
+
+You can iterate freely on ideas, models, and systems without SSD.
+SSD becomes relevant when the question shifts from:
+
+“Does this work?”
+to
+“Is it safe to trust this here?”
+
+SSD is therefore optional during exploration,
+and valuable when systems, decisions, or dependencies begin to matter.
 
 ---
 
